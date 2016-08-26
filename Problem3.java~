@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Problem3 {
+  public static void main(String[] args) {
+    
+    int[] results = new Array[100];
+    Scanner sc = new Scanner(System.in);
+    int loop_times = sc.nextInt();
+    
+    for (int n = 0; n < loop_times; n++) {
+      sc.nextInt() + sc.nextInt());
+  }
+}
+    
